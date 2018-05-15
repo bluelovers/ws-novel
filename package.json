@@ -6,6 +6,7 @@
     "packages/*"
   ],
   "scripts": {
+    "sort-package-json": "oao all sort-package-json2",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "resolutions": {},

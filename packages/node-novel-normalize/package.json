@@ -1,16 +1,16 @@
 {
   "name": "@node-novel/normalize",
   "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "cjk-conv": "^1.0.35",
     "normalize-num": "^1",
     "str-util": "^2.3.16"
-  },
-  "description": ""
+  }
 }

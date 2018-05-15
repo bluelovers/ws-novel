@@ -14,9 +14,6 @@
     "experimentalDecorators": true,
 
     //"allowSyntheticDefaultImports": true,
-    //"allowSyntheticDefaultExports": true,
-
-    //"ESModuleInterop": true,
     //"esModuleInterop": true,
 
     "strict": false,

@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "cjk-conv": "^1.0.35",
-    "normalize-num": "^1",
+    "normalize-num": "^1.0.0",
     "str-util": "^2.3.16"
   }
 }

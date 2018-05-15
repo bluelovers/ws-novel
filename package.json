@@ -6,11 +6,11 @@
     "packages/*"
   ],
   "scripts": {
-    "sort-package-json": "oao all sort-package-json2",
+    "sort-package-json": "sort-package-json2 && oao all sort-package-json2",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "resolutions": {},
   "devDependencies": {
     "@types/node": "^10.0.9"
-  }
+  },
+  "resolutions": {}
 }

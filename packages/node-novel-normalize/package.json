@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "cjk-conv": "^1.0.35",
-    "num-normalize": "^1",
+    "normalize-num": "^1",
     "str-util": "^2.3.16"
   }
 }

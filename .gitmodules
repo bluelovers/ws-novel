@@ -1,8 +1,8 @@
 [submodule "num-is-roman"]
 	path = packages/num-is-roman
 	url = https://github.com/bluelovers/num-is-roman.git
-[submodule "num-normalize"]
-	path = packages/num-normalize
+[submodule "normalize-num"]
+	path = packages/normalize-num
 	url = https://github.com/bluelovers/num-normalize.git
 [submodule "node-novel-globby"]
 	path = packages/node-novel-globby

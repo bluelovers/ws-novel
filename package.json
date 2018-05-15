@@ -10,6 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
+    "@types/bluebird": "^3.5.20",
     "@types/node": "^10.0.9"
   },
   "resolutions": {}

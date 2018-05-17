@@ -7,3 +7,6 @@
 [submodule "node-novel-globby"]
 	path = packages/node-novel-globby
 	url = https://github.com/bluelovers/node-novel-globby.git
+[submodule "node-novel-travis-test"]
+	path = packages/novel-travis-test
+	url = https://github.com/bluelovers/novel-travis-test.git
